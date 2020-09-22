@@ -1,0 +1,125 @@
+
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    background-color: #eaf6f6;
+
+}
+h1{
+    width: 10%;
+    margin: 50px auto 0 auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5.625rem;
+    color: #66bfbf;
+    line-height: 2;
+    
+
+}  
+h2{
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-size: normal;
+    
+}  
+h3{
+    color: #11999e;
+}
+.aboutme
+{
+
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+.code-image
+{
+    float: left;
+    margin-right: 30px;
+}
+.com-image
+{
+    float: right;
+    margin-left: 30px;
+}
+
+.footer-link
+{
+    color: #11999e;
+}
+
+.first_container
+{
+    background-color: #eaf6f6;
+    margin-top: 20px;
+}
+.bottom_cloud
+{
+    position: absolute;
+}
+.top_cloud
+{
+    position: absolute;
+    right: 400px;
+}    
+/*.blue
+{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position : absolute;
+    top: 0px;
+    left: 0px;
+}
+.yellow
+{
+    width: 100px;
+    height: 100px;
+    background-color:yellow;  
+    position: absolute;
+    top: 100px;
+    left:100px;
+}
+.red
+{
+    width: 100px;
+    height: 100px;
+    background-color:red;  
+    position: absolute;
+    top: 200px;
+    left:200px ;
+}*/
+.middle-container
+{
+    background-color: white;
+}
+hr{
+    border-style: dotted none none ;
+    border-width: 5px;
+    color: gray;
+    width: 5%;
+}
+    
+.btn
+{
+    background-color: #66bfbf;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+}
+    
+    
+
